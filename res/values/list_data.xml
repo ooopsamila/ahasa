@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>News One</item>
+        <item>News Two</item>
+        <item>News Three</item>
+        <item>News Four</item>
+        <item>News Five</item>
+        <item>News Six</item>
+        <item>News Seven</item>
+        <item>News Eight</item>
+        <item>News Nine</item>
+        <item>News Ten</item>
+    </string-array>
+</resources>

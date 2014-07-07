@@ -11,4 +11,8 @@
               android:textSize="18dip"
               android:layout_width="fill_parent"
               android:layout_height="wrap_content"/>
+    <MediaController
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mediaController"/>
 </LinearLayout>
