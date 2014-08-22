@@ -33,7 +33,7 @@ public class NewsActivity extends ListActivity {
         setListAdapter(new ArrayAdapter<String>(this, R.layout.news_layout, R.id.label, list));
     }
 
-    private class AsynTask extends AsyncTask<String, Void, String> {
+    public class AsynTask extends AsyncTask<String, Void, String> {
         @Override
         protected String doInBackground(String... strings) {
             InputStream is = null;
@@ -57,11 +57,9 @@ public class NewsActivity extends ListActivity {
                     newsList.add(obj.getAsJsonObject().get("description").toString());
                 }
                 runOnUiThread(new Runnable() {
-
                     @Override
                     public void run() {
                         setAdapterData(newsList);
-
                     }
                 });
                 is.close();
