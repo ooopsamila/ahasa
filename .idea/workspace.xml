@@ -13,8 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4054e576-db7c-46e4-b5de-1218b85c1c7f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API19Test.iml" afterPath="$PROJECT_DIR$/API19Test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" afterPath="$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="API19Test.iws" />
@@ -86,7 +84,22 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" line="41" class="com.example.API19Test.NewsActivity.AsynTask" package="com.example.API19Test">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java" line="14" class="com.example.API19Test.VideoActivity" package="com.example.API19Test">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" line="42" class="com.example.API19Test.NewsActivity.AsynTask" package="com.example.API19Test">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -111,10 +124,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="39" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="432">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="36" selection-start="492" selection-end="492" vertical-scroll-proportion="0.38162544" vertical-offset="0" max-vertical-offset="630">
+            <state line="13" column="39" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="702">
               <folding />
             </state>
           </provider>
@@ -123,12 +148,38 @@
       <file leaf-file-name="NewsActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
-              <folding>
-                <element signature="e#2048#2056#0" expanded="true" />
-                <element signature="e#2244#2422#0" expanded="true" />
-                <element signature="e#2403#2404#0" expanded="true" />
-              </folding>
+            <state line="13" column="14" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1314">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="video_layout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="27" selection-start="295" selection-end="295" vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="396">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="145" selection-start="252" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="39" selection-start="258" selection-end="260" vertical-scroll-proportion="0.2549575" vertical-offset="0" max-vertical-offset="522">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,7 +187,7 @@
       <file leaf-file-name="ArrayAdapter.class" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/widget/ArrayAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1098">
+            <state line="7" column="11" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1116">
               <folding />
             </state>
           </provider>
@@ -145,37 +196,16 @@
       <file leaf-file-name="ListActivity.class" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/ListActivity.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="16" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="594">
+            <state line="17" column="16" selection-start="604" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="612">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news_layout.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="11" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="270">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="list_data.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/list_data.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="75" selection-end="75" vertical-scroll-proportion="-1.44" vertical-offset="0" max-vertical-offset="360">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ids.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/data/res/values/ids.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="24" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="1638">
+            <state line="2" column="24" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="360">
               <folding />
             </state>
           </provider>
@@ -197,14 +227,14 @@
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/res/layout/nes_layout.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/video_layout.xml" />
         <option value="$PROJECT_DIR$/res/layout/news_layout.xml" />
         <option value="$PROJECT_DIR$/res/values/list_data.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/API19Test/AsynTask.java" />
-        <option value="$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" />
         <option value="$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/video_layout.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -241,8 +271,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,6 +359,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,11 +376,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gson-2.2.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/google-gson-2.2.4/gson-2.2.4.jar!/" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -638,25 +669,34 @@
       <workItem from="1407901447532" duration="1238000" />
       <workItem from="1407987326198" duration="617000" />
       <workItem from="1407988906705" duration="715000" />
-      <workItem from="1407989690314" duration="6499000" />
+      <workItem from="1407989690314" duration="9082000" />
+      <workItem from="1408358291060" duration="2813000" />
+      <workItem from="1408511593362" duration="3952000" />
+      <workItem from="1408682711771" duration="211000" />
+      <workItem from="1408693862573" duration="3181000" />
     </task>
     <task id="LOCAL-00001" summary="first commit&#10;">
       <created>1407491670665</created>
       <updated>1407491670665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added video support">
+      <created>1408698291033</created>
+      <updated>1408698291033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18333000" />
+    <option name="totallyTimeSpent" value="31073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34299517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34299517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24772727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -675,11 +715,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24772727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -697,19 +736,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24772727" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24772727" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6698873" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6698873" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -729,7 +768,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="first commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit&#10;" />
+    <MESSAGE value="added video support" />
+    <option name="LAST_COMMIT_MESSAGE" value="added video support" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -739,41 +779,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gen/com/example/API19Test/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
-      <provider editor-type-id="text-editor">
-        <state line="5" column="45" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
+    <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_videos_tab.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="45" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="15" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/data/res/values/ids.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="24" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1365">
-          <folding />
-        </state>
+        <state line="39" column="24" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1365" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -805,23 +823,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="32" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="360">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding>
-            <element signature="e#2048#2056#0" expanded="true" />
-            <element signature="e#2244#2422#0" expanded="true" />
-            <element signature="e#2403#2404#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -831,30 +845,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/data/res/values/ids.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="24" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="1365">
-          <folding />
-        </state>
+        <state line="38" column="24" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="1365" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -886,23 +898,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="32" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="360">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding>
-            <element signature="e#2048#2056#0" expanded="true" />
-            <element signature="e#2244#2422#0" expanded="true" />
-            <element signature="e#2403#2404#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -912,30 +920,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/data/res/values/ids.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="24" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="1365">
-          <folding />
-        </state>
+        <state line="38" column="24" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="1365" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -960,13 +966,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="14" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="285">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
@@ -983,13 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/icon_videos_tab.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="45" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210" />
@@ -1000,98 +999,41 @@
         <state line="48" column="0" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.84070796" vertical-offset="230" max-vertical-offset="795" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
-      <provider editor-type-id="text-editor">
-        <state line="11" column="48" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="414">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gen/com/example/API19Test/R.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="19" selection-start="172" selection-end="172" vertical-scroll-proportion="0.24657534" vertical-offset="0" max-vertical-offset="365" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/data/res/values/ids.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="24" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1365">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
+        <state line="39" column="24" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="1365" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/java/net/URI.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="1422">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="39" selection-start="258" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
-          <folding />
-        </state>
+        <state line="7" column="11" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="1422" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/java/util/Arrays.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="197" selection-end="197" vertical-scroll-proportion="-0.032549728" vertical-offset="126" max-vertical-offset="4032">
-          <folding />
-        </state>
+        <state line="7" column="36" selection-start="197" selection-end="197" vertical-scroll-proportion="-0.032549728" vertical-offset="126" max-vertical-offset="4032" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/list_data.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="75" selection-end="75" vertical-scroll-proportion="-1.44" vertical-offset="0" max-vertical-offset="360">
+        <state line="2" column="24" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="360">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/os/AsyncTask.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="62" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1008">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Downloads/gson-2.2.jar!/com/google/gson/JsonElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
-          <folding />
-        </state>
+        <state line="34" column="62" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1008" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ideaLibSources/gson-2.2-sources.jar!/com/google/gson/JsonElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="35" selection-start="2558" selection-end="2573" vertical-scroll-proportion="0.0" vertical-offset="1046" max-vertical-offset="5598">
-          <folding>
-            <element signature="e#0#11672#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="79" column="35" selection-start="2558" selection-end="2573" vertical-scroll-proportion="0.0" vertical-offset="1046" max-vertical-offset="5598" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/ListActivity.class">
@@ -1108,25 +1050,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
-          <folding>
-            <element signature="e#2048#2056#0" expanded="true" />
-            <element signature="e#2244#2422#0" expanded="true" />
-            <element signature="e#2403#2404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-ldpi/photos_white.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="39" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/TabActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="630" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="492" selection-end="492" vertical-scroll-proportion="0.38162544" vertical-offset="0" max-vertical-offset="630">
+        <state line="13" column="39" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="384" selection-end="384" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/Instrumentation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="16" selection-start="5963" selection-end="5963" vertical-scroll-proportion="0.33114755" vertical-offset="1897" max-vertical-offset="2880" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="16" selection-start="2638" selection-end="2638" vertical-scroll-proportion="0.33114755" vertical-offset="1033" max-vertical-offset="8028" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="295" selection-end="295" vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1314">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="145" selection-start="252" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="39" selection-start="258" selection-end="260" vertical-scroll-proportion="0.2549575" vertical-offset="0" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
@@ -1160,6 +1157,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
