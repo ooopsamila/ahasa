@@ -32,9 +32,18 @@ public class NewsActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.news_layout);
+        loadNews();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        loadNews();
+    }
+
+    public void loadNews() {
         AsynTask asynTask = new AsynTask();
         asynTask.execute();
-
     }
 
     public void setAdapterData(List<News> list) {

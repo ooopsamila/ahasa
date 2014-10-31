@@ -3,11 +3,8 @@ package com.example.API19Test;
 import android.app.TabActivity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.TabHost;
 import android.widget.TabHost.TabSpec;
-
-import static com.example.API19Test.NewsActivity.*;
 
 public class MyActivity extends TabActivity {
     @Override
@@ -31,25 +28,8 @@ public class MyActivity extends TabActivity {
         videoSpec.setContent(videosIntent);
 
         // Adding all TabSpec to TabHost
-        tabHost.addTab(newsSpec); // Adding Nes tab
+        tabHost.addTab(newsSpec); // Adding News tab
         tabHost.addTab(videoSpec); // Adding videos tab
 
-        getTabHost().setOnTabChangedListener(new TabHost.OnTabChangeListener() {
-
-            @Override
-            public void onTabChanged(String tabId) {
-
-                int tabIndex = getTabHost().getCurrentTab();
-                Log.i("@@@@@@@@ ANN CLICK TAB NUMBER", "------" + tabIndex);
-
-                if (tabIndex == 0) {
-
-                }
-                else if (tabIndex ==1) {
-                    Log.i("@@@@@@@@@@ Inside onClick tab 1", "onClick tab");
-                }
-
-            }
-        });
     }
 }

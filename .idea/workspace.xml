@@ -12,10 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4054e576-db7c-46e4-b5de-1218b85c1c7f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/API19Test/News.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java" afterPath="$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" afterPath="$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/news_layout.xml" afterPath="$PROJECT_DIR$/res/layout/news_layout.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="API19Test.iws" />
@@ -71,23 +69,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java" line="2" class="MyActivity.java" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -100,16 +82,7 @@
       <file leaf-file-name="VideoActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="31" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="80" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="540">
+            <state line="21" column="49" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
@@ -118,25 +91,16 @@
       <file leaf-file-name="NewsActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="4" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.50883394" vertical-offset="0" max-vertical-offset="1620">
+            <state line="43" column="24" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.6360424" vertical-offset="0" max-vertical-offset="1782">
               <folding>
-                <element signature="e#1298#1304#0" expanded="true" />
-                <element signature="e#1452#2268#0" expanded="true" />
-                <element signature="e#1978#2207#0" expanded="true" />
-                <element signature="e#2180#2181#0" expanded="true" />
-                <element signature="e#2257#2258#0" expanded="true" />
-                <element signature="e#3632#3808#0" expanded="true" />
-                <element signature="e#3789#3790#0" expanded="true" />
+                <element signature="e#1452#1458#0" expanded="true" />
+                <element signature="e#1606#2422#0" expanded="true" />
+                <element signature="e#2132#2361#0" expanded="true" />
+                <element signature="e#2334#2335#0" expanded="true" />
+                <element signature="e#2411#2412#0" expanded="true" />
+                <element signature="e#3786#3962#0" expanded="true" />
+                <element signature="e#3943#3944#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Activity.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/Activity.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="413" column="22" selection-start="18176" selection-end="18176" vertical-scroll-proportion="0.0" vertical-offset="7354" max-vertical-offset="8010">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -144,11 +108,35 @@
       <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="0" selection-start="1617" selection-end="1617" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="972">
-              <folding>
-                <element signature="e#1328#1796#0" expanded="true" />
-                <element signature="e#1785#1786#0" expanded="true" />
-              </folding>
+            <state line="32" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="View.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/view/View.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="467" column="41" selection-start="23126" selection-end="23126" vertical-scroll-proportion="0.0" vertical-offset="8287" max-vertical-offset="21384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewGroup.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/view/ViewGroup.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="284" column="29" selection-start="14464" selection-end="14464" vertical-scroll-proportion="0.0" vertical-offset="4993" max-vertical-offset="7128">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TabActivity.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/TabActivity.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="34" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="630">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -175,30 +163,6 @@
         <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/LauncherActivity.class">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="19" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="918">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news_layout.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/news_layout.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="15" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="306">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="video_layout.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="27" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="396">
               <folding />
             </state>
           </provider>
@@ -660,7 +624,7 @@
       <workItem from="1414737237021" duration="216000" />
       <workItem from="1414737476331" duration="1111000" />
       <workItem from="1414742814374" duration="4336000" />
-      <workItem from="1414748139889" duration="1846000" />
+      <workItem from="1414748139889" duration="3349000" />
     </task>
     <task id="LOCAL-00001" summary="first commit&#10;">
       <created>1407491670665</created>
@@ -674,7 +638,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45006000" />
+    <option name="totallyTimeSpent" value="46509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -766,11 +730,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gen/com/example/API19Test/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/video_layout.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -813,10 +772,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="21" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="213" max-vertical-offset="705">
-          <folding>
-            <element signature="e#1328#1796#0" expanded="true" />
-            <element signature="e#1785#1786#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -841,13 +797,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
           <folding>
-            <element signature="e#1298#1304#0" expanded="true" />
-            <element signature="e#1452#2268#0" expanded="true" />
-            <element signature="e#1978#2207#0" expanded="true" />
-            <element signature="e#2180#2181#0" expanded="true" />
-            <element signature="e#2257#2258#0" expanded="true" />
-            <element signature="e#3632#3808#0" expanded="true" />
-            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#1452#1458#0" expanded="true" />
+            <element signature="e#1606#2422#0" expanded="true" />
+            <element signature="e#2132#2361#0" expanded="true" />
+            <element signature="e#2334#2335#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#3786#3962#0" expanded="true" />
+            <element signature="e#3943#3944#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -899,10 +855,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="53" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="315">
-          <folding>
-            <element signature="e#1328#1796#0" expanded="true" />
-            <element signature="e#1785#1786#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -997,16 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/TabActivity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/Instrumentation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="16" selection-start="5963" selection-end="5963" vertical-scroll-proportion="0.33114755" vertical-offset="1897" max-vertical-offset="2880" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../d3-book/d3/d3.v3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140508" />
@@ -1080,13 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="31" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/widget/TabHost.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="16" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.33114755" vertical-offset="367" max-vertical-offset="1530">
@@ -1101,27 +1037,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="49" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/TabActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="34" selection-start="931" selection-end="931" vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/view/ViewGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="284" column="29" selection-start="14464" selection-end="14464" vertical-scroll-proportion="0.0" vertical-offset="4993" max-vertical-offset="7128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="467" column="41" selection-start="23126" selection-end="23126" vertical-scroll-proportion="0.0" vertical-offset="8287" max-vertical-offset="21384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Software/adt-bundle-linux-x86_64-20140321/sdk/platforms/android-19/android.jar!/android/app/Instrumentation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="16" selection-start="6187" selection-end="6187" vertical-scroll-proportion="0.33114755" vertical-offset="1969" max-vertical-offset="2880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1617" selection-end="1617" vertical-scroll-proportion="0.0" vertical-offset="332" max-vertical-offset="972">
-          <folding>
-            <element signature="e#1328#1796#0" expanded="true" />
-            <element signature="e#1785#1786#0" expanded="true" />
-          </folding>
+        <state line="32" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/API19Test/NewsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="4" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.50883394" vertical-offset="0" max-vertical-offset="1620">
+        <state line="43" column="24" selection-start="1195" selection-end="1195" vertical-scroll-proportion="0.6360424" vertical-offset="0" max-vertical-offset="1782">
           <folding>
-            <element signature="e#1298#1304#0" expanded="true" />
-            <element signature="e#1452#2268#0" expanded="true" />
-            <element signature="e#1978#2207#0" expanded="true" />
-            <element signature="e#2180#2181#0" expanded="true" />
-            <element signature="e#2257#2258#0" expanded="true" />
-            <element signature="e#3632#3808#0" expanded="true" />
-            <element signature="e#3789#3790#0" expanded="true" />
+            <element signature="e#1452#1458#0" expanded="true" />
+            <element signature="e#1606#2422#0" expanded="true" />
+            <element signature="e#2132#2361#0" expanded="true" />
+            <element signature="e#2334#2335#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#3786#3962#0" expanded="true" />
+            <element signature="e#3943#3944#0" expanded="true" />
           </folding>
         </state>
       </provider>
